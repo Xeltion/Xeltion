@@ -21,6 +21,9 @@ int main()
 		case 'F':
 			printf("You've failed the test.");
 			break;
+		default :
+			printf("INVALID GRADE"):
+			break:
 	}
 	
 	return 0;	
