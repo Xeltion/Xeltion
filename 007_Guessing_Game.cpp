@@ -10,7 +10,7 @@ int main(){
 	
 	while(Guess!=Secret_Num){
 		printf("TOO BAD!!! TRY AGAIN! \n");
-		break;
+		scanf("%d", &Guess);
 	}
 	if(Guess==Secret_Num){
 		printf("CONGRATULATIONS!!! YOU WIN!!!");
