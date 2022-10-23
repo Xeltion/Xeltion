@@ -20,7 +20,7 @@ while Ans=="Y" or Ans=="y":
         Id = input("Identification No. :")
         time = datetime.now()
         print("Details of Entry :", time)
-        file = open("XeltionData.txt", "w")
+        file = open("Ditty_Data.txt", "w")
         L = [Name, Id, time]
         rec ="RECORD: \n" + str(L[0]) + "  |  " + str(L[1]) + "  |  " + str(L[2])
         file.write(rec)
@@ -40,7 +40,7 @@ while Ans=="Y" or Ans=="y":
         Id = input("Identification No. :")
         time = datetime.now()
         print("Details of Entry :", time)
-        file = open("XeltionData.txt", "a")
+        file = open("Ditty_Data.txt", "a")
         L = [Name, Id, time]
         rec ="\n" + str(L[0]) + "  |  " + str(L[1]) + "  |  " + str(L[2])
         file.write(rec)
