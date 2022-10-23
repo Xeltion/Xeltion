@@ -3,7 +3,7 @@ from datetime import datetime
 #call for input of some kind
 #store it in database
 print("")
-print("WELCOME TO THE XELTION DATABASES!\n")
+print("WELCOME TO THE DITTY DATABASES!\n")
 print("You can establish the No. of Entries the database will have, and can modify them later.")
 print("")
 print("------------------------------------------------------------------------------------------------------------------")
