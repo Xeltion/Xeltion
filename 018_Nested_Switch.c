@@ -1,11 +1,9 @@
 /* Nested Switch */
-
 #include <stdio.h>
 
 float main(){
-	
-	int			ch;
-	char		op;	
+	int	ch;
+	char	op;	
 	
 	printf("Please choose one of the following Numbers.\n1\n2\n3 \n\n");
 	scanf("%d", &ch);
@@ -19,8 +17,7 @@ float main(){
 			break;
 		case 3:
 			printf("\nPlease choose one of the following Options.\na\nb\nc \n\n");
-			fflush(stdin);
-			/* There is a problem here. */
+			fflush(stdin);					//To flush the Active Memory of it's previous data
 			scanf("%c", &op);
 			switch(op){
 				case('a'):
