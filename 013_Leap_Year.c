@@ -9,7 +9,7 @@ void main(){
 	if(Year%4 == 0){
 		if(Year%100 != 0){
 			printf("LEAP YEAR!!!");
-			return i = 1;
+			i = 1;
 		}
 	}
 	
