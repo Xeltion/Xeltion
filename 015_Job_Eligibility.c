@@ -1,17 +1,17 @@
 /*  JOB ELIGIBILITY
-*
+*--------------------------------------------------------------------------------------------
 *	Select Candidates as Required -->
 *
 *	Male _ 3 Years of Experience
 *			  OR
 *	Female _ 2 Years of Experience
-*
+*--------------------------------------------------------------------------------------------
 */ 
 
 #include <stdio.h>
 
 int main(){
-	int		sex, Ex;
+	int			sex, Ex;
 	printf("What is your Gender? \n1.Male \n2.Female \n\n");
 	scanf("%d", &sex);
 	printf("How many years of experience do you have?\n");
