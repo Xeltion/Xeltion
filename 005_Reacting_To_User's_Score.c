@@ -1,7 +1,9 @@
+/* TO COMMENT ON THE SCORES OF A STUDENT */
 #include<stdio.h>
-int main()
+
+void main()
 {
-	char Grade;
+	char 		Grade;
 	puts("What di you score in today's test? : \n");
 	scanf("%c", &Grade);
 	switch(Grade)
@@ -24,7 +26,5 @@ int main()
 		default :
 			printf("INVALID GRADE"):
 			break:
-	}
-	
-	return 0;	
+	}	
 }
