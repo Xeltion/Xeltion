@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main(){
-	int 			No_of_Days, Months, Days;
+	int 		No_of_Days, Months, Days;
 	printf("Enter the number of days: \n");
 	scanf("%d", &No_of_Days);
 	
