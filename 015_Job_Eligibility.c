@@ -11,7 +11,7 @@
 #include <stdio.h>
 
 int main(){
-	int			sex, Ex;
+	int		sex, Ex;
 	printf("What is your Gender? \n1.Male \n2.Female \n\n");
 	scanf("%d", &sex);
 	printf("How many years of experience do you have?\n");
