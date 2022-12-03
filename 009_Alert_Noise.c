@@ -1,14 +1,6 @@
-/*  */
+/*  Alert Noise */
 #include <stdio.h>
 
-/*
-*
-* Alert Noise
-*
-*/
-
-int main(){
+void main(){
 	printf("\aALERT!!!");
-	
-	return 0;
 }
