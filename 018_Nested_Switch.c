@@ -5,7 +5,7 @@ float main(){
 	int	ch;
 	char	op;	
 	
-	printf("Please choose one of the following Numbers.\n1\n2\n3 \n\n");
+	printf("Please choose one of the following Numbers.(1/2/3) \n\n");
 	scanf("%d", &ch);
 	
 	switch(ch){
@@ -16,17 +16,17 @@ float main(){
 			printf("This is the 2nd choice.");
 			break;
 		case 3:
-			printf("\nPlease choose one of the following Options.\na\nb\nc \n\n");
+			printf("\nPlease choose one of the following Options.(A/B/C) \n\n");
 			fflush(stdin);					//To flush the Active Memory of it's previous data
 			scanf("%c", &op);
 			switch(op){
-				case('a'):
+				case('A'):
 					printf("\nThis is the First option.\n");
 					break;
-				case('b'):
+				case('B'):
 					printf("\nThis is the Second option.\n");
 					break;
-				case('c'):
+				case('C'):
 					printf("\nThis is the Third option.\n");
 					break;
 				default:
