@@ -1,13 +1,13 @@
-//Pointers
+/* BASICS OF POINTERS */
 #include<stdio.h>
-int main()
-{
-	int Num;
-	int *pNum = &Num;
-	char Name[30];
-	char *pName = &Name[30];
-	const double Pi = 3.14;
-	const double *pPi = &Pi;
+
+void main(){
+	int 			Num;
+	int 			*pNum = &Num;
+	char 			Name[30];
+	char 			*pName = &Name[30];
+	const double 		Pi = 3.14;
+	const double 		*pPi = &Pi;
 	
 	puts("Enter a Number : ");
 	scanf("%d", &Num);
@@ -18,6 +18,4 @@ int main()
 	printf("1. Number = %p\n", pNum);
 	printf("2. Name = %p\n", pName);
 	printf("3. Constant Pi = %p", pPi);
-
-	return 0;
 }
