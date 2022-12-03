@@ -1,5 +1,6 @@
-//THIS IS TO PRINT THE WORDS 'HELLO WORLD'
-#include<stdio.h>
+/* THIS IS TO PRINT THE WORDS 'HELLO WORLD' */
+#include <stdio.h>
+
 int main()
 {
 printf("Hello World!\n");
