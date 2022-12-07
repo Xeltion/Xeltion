@@ -1,14 +1,21 @@
 WELCOME TO MY PAGE!!! THIS IS LITTLE INFO ABOUT ME -->
 
-**MY SKILLS :--> **                                                   -  **THINGS I WANT TO DO GOING AHEAD :-->**
-                                                                      -  
-1. C Developer, (Intermediate Level)                                  -  1. Web Development
-3. AWS Cloud Practioner (Beginner Level)                              -  2. Cross Platform Mobile Applications
-4. Cyber Security (Beginner Level)                                    -  3. Basics of creating a Operating Systems
-5. Network Programming (.NET Framwork)                                -  4. Basics of creating a Compiler
-                                                                      -  5. Graphics Designing using codes
-                                                                      -  6. Artificial Intelligence
-                                                                      -  7. Panetration Testing
+**MY SKILLS :--> **
+
+1. C Developer, (Intermediate Level)
+3. AWS Cloud Practioner (Beginner Level)
+4. Cyber Security (Beginner Level)
+5. Network Programming (.NET Framwork)                                               
+
+**THINGS I WANT TO DO GOING AHEAD :-->**
+
+1. Web Development
+2. Cross Platform Mobile Applications
+3. Basics of creating a Operating Systems
+4. Basics of creating a Compiler
+5. Graphics Designing using codes
+6. Artificial Intelligence
+7. Panetration Testing
 
 **PROJECTS I REALLY WANT TO WORK ON :-->**
 
