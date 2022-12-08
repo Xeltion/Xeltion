@@ -1,8 +1,8 @@
 WELCOME TO MY PAGE!!! THIS IS LITTLE INFO ABOUT ME -->
 
-**MY SKILLS :--> **
+**MY SKILLS :-->**
 
-1. C Developer, (Intermediate Level)
+1. C Developer (Intermediate Level)
 3. AWS Cloud Practioner (Beginner Level)
 4. Cyber Security (Beginner Level)
 5. Network Programming (.NET Framwork)                                               
