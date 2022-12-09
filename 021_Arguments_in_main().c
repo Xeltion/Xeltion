@@ -1,5 +1,5 @@
-/* Passing arguments in Functions 
-*----------------------------------------------------------------------------------------------------------------------------------------------------------
+/* 		Passing arguments in Functions 
+*	----------------------------------------------------------------------------------------------------------------------------------------------------------
 *		(ARG Count)
 *		argc --> integer [ No. of arguments given ] / {{{ CAN NEVER BE LESS THAN 1 }}}
 *
@@ -9,7 +9,7 @@
 *		The Array which contain all the given arguments is:
 * 		argv[] --> Array [  ] = { Argument 1, Argument 2, Argument 3, ...}
 *		argv[2] == returns the interger value for the Argument within the argv[] that is stored at index 1, and then convert it into string and execute it.
-*----------------------------------------------------------------------------------------------------------------------------------------------------------
+*	----------------------------------------------------------------------------------------------------------------------------------------------------------
 */
 
 #include <stdio.h>
