@@ -14,7 +14,7 @@
 
 #include <stdio.h>
 
-//  *argv[] is the value stored at argv[index]
+//  *argv[] is the pointer pointing at the value stored at argv[index]
 int main(int argc, char *argv[]){
 	int 	i;
 	if(argc < 2){
