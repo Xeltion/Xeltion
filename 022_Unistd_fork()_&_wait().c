@@ -5,8 +5,8 @@
 * Process 1 --> Print no. 1 to 5 on the child process.
 * Process 2 --> Print no. 5 to 10 on the main process.
 *
-*			    /---------> CHILD PROCESS ( Id == 0 ) Do something here
-* 			   /
+*		 /---------> CHILD PROCESS ( Id == 0 ) Do something here
+* 		/
 *  -----------------------> MAIN PROCESS ( Id != 0 ) Do something here
 *			    
 * BOTH WILL BE EXECUTED SIMULTANEOUSLY; WE COULD USE wait() TO AVOID DISORDERING THE DATA
