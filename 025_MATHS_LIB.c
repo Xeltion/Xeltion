@@ -22,8 +22,8 @@
 *	FUNCTIONS:-
 *	
 *	pow(__,__) , sqrt(__) , cbrt(__) , exp(__,__)		-->		___float(f) and long double(l)
-*	[ceil(__), floor(__)] 	      --> 	___float floorf(), long double floorl(); float ceilf(), long double ceill()____
-*	remainder(__) 	          --> 	___float remainderf(), long double remainderl()____
+*	[ceil(__), floor(__)] 	        --> 	___float floorf(), long double floorl(); float ceilf(), long double ceill()____
+*	remainder(__) 	                --> 	___float remainderf(), long double remainderl()____
 *	fabs(__) 	                --> 	Return only the magnitude of the input.
 *	fmax(__,__) , fmin(__,__)
 *
