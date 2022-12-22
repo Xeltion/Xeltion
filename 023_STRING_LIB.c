@@ -7,7 +7,7 @@
 *	(isalnum, isalpha, isdigit, isblank, isnull, isspace); 
 *	(strcat, strncat); 
 *	(strchr, strstr) --> Searching Functions ;
-*   strrev --> Reverses a string
-*   (strupr, strlwr) 
+*       strrev --> Reverses a string
+*       (strupr, strlwr) 
 *----------------------------------------------------------------------------------------------
 */
