@@ -4,9 +4,9 @@ I concur we're meeting for the first time, my Friend. Let me tell you a little a
 **MY PROGRAMMING EXPERIENCE**
 As of 23-October-2023
 
-1. C/C++ (Intermediate)                    { 2 Years of Experience - 98 Programs; 3 Projects; 0 Leet Problems }
-2. Java (Advanced)                         { 1 Year of Experience - 72 Programs; 2 Projects; 0 Leet Problems }
-3. Ruby on Rails (Beginner)                { 4 Months of Experience - 12 Programs; 0 Projects; 0 Leet Problems }
+1. C/C++ (Intermediate)____________________{ 2 Years of Experience - 98 Programs; 3 Projects; 0 Leet Problems }
+2. Java (Advanced)_________________________{ 1 Year of Experience - 72 Programs; 2 Projects; 0 Leet Problems }
+3. Ruby on Rails (Beginner)________________{ 4 Months of Experience - 12 Programs; 0 Projects; 0 Leet Problems }
 4. AWS Cloud Practioner (Beginner Level)   { 3 Months of Training }
 5. Malware Programming                     { 1 Month of Experience - 4 Programs }
 6. Ardiuno
