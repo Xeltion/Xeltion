@@ -1,7 +1,7 @@
 Greetings, Random Trvaller!!!
 I concur we're meeting for the first time, my Friend. Let me tell you a little about myself.
 
-**MY PROGRAMMING EXPERIENCE**\n
+**MY PROGRAMMING EXPERIENCE**
 As of 23-October-2023
 
 1. C/C++ (Intermediate)____________________{ 2 Years of Experience - 98 Programs; 3 Projects; 0 Leet Problems }
